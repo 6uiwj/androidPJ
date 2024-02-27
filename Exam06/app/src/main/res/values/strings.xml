@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam06</string>
+    <string name ="join_title">회원가입</string>
+    <string name="userId">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="confirmPassword">비밀번호 확인</string>
+    <string name="userNm">회원명</string>
+    <string name="join_agree">가입약관 동의</string>
+    <string name="joinBtn">가입하기</string>
+</resources>
